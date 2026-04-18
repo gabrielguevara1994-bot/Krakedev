@@ -1,0 +1,1 @@
+git clone: clona la carpeta creada en el repositorio GIT HUB y vincula para sacar respaldos 
