@@ -1,1 +1,2 @@
 git clone: clona la carpeta creada en el repositorio GIT HUB y vincula para sacar respaldos 
+git commit: asigna un nombre al respaldo que estamos creando del archivo 
