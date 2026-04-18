@@ -1,2 +1,5 @@
 git clone: clona la carpeta creada en el repositorio GIT HUB y vincula para sacar respaldos 
 git commit: asigna un nombre al respaldo que estamos creando del archivo 
+git push: sube la información al repositorio 
+git status: aroja una descripción del archivo y si esta guarado en el repositorio 
+git add: agrega el archivo que se quiere sacar el respaldo 
